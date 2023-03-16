@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1606475118 source:c:\users\papfi\desktop\c programlama\bm101 umut demirel 191180034\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1608136800 source:c:\users\papfi\desktop\bm101 umut demirel 191180034\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
